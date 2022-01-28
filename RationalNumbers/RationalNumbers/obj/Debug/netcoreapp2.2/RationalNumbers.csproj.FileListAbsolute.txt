@@ -1,0 +1,11 @@
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp2.2\RationalNumbers.deps.json
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp2.2\RationalNumbers.runtimeconfig.json
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp2.2\RationalNumbers.runtimeconfig.dev.json
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp2.2\RationalNumbers.dll
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp2.2\RationalNumbers.pdb
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.csprojResolveAssemblyReference.cache
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.csproj.CoreCompileInputs.cache
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.AssemblyInfoInputs.cache
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.AssemblyInfo.cs
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.dll
+F:\20192020\05OOP\10_11092020\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp2.2\RationalNumbers.pdb
